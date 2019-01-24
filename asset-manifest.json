@@ -1,14 +1,13 @@
 {
-  "main.css": "/film-freeze/static/css/main.eaa05421.chunk.css",
-  "main.js": "/film-freeze/static/js/main.9d32fed6.chunk.js",
-  "main.js.map": "/film-freeze/static/js/main.9d32fed6.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/film-freeze/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/film-freeze/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/film-freeze/static/css/main.d8bdd1ac.chunk.css",
+  "main.js": "/film-freeze/static/js/main.7ab7c954.chunk.js",
+  "main.js.map": "/film-freeze/static/js/main.7ab7c954.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/film-freeze/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/film-freeze/static/js/1.4a34e45d.chunk.js.map",
   "runtime~main.js": "/film-freeze/static/js/runtime~main.005e033f.js",
   "runtime~main.js.map": "/film-freeze/static/js/runtime~main.005e033f.js.map",
-  "static/media/logo.svg": "/film-freeze/static/media/logo.5d5d9eef.svg",
-  "static/css/main.eaa05421.chunk.css.map": "/film-freeze/static/css/main.eaa05421.chunk.css.map",
+  "static/css/main.d8bdd1ac.chunk.css.map": "/film-freeze/static/css/main.d8bdd1ac.chunk.css.map",
   "index.html": "/film-freeze/index.html",
-  "precache-manifest.762510cd366d23b58b18aed249673529.js": "/film-freeze/precache-manifest.762510cd366d23b58b18aed249673529.js",
+  "precache-manifest.7d33926145e6c78b060161689c1424a4.js": "/film-freeze/precache-manifest.7d33926145e6c78b060161689c1424a4.js",
   "service-worker.js": "/film-freeze/service-worker.js"
 }
