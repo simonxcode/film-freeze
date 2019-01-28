@@ -8,16 +8,21 @@ class Question extends Component {
     };
   }
 
-  handleOptionChange = changeEvent => {
+  handleOptionChange = changeEventlala => {
     this.setState({
-      selectedOption: changeEvent.target.value
+      selectedOption: changeEventlala.target.value
     });
+  }
+
+  handleFormSubmit = formSubmitEvent => {
+    formSubmitEvent.preventDefault(); 
+    console.log('You have submitted:', this.state.selectedOption);
   }
 
   render() {
     return (
       <div>
-        <form>
+        <form onSubmit={this.handleFormSubmit}> 
           <div className='form-check'>
             <label>
               <input
@@ -72,6 +77,9 @@ class Question extends Component {
               />
               Pulp Fiction
             </label>
+          </div>
+          <div>
+            <button type='submit'>Submit</button>
           </div>
         </form>
       </div>
