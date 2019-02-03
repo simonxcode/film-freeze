@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+//child component
 class Question extends Component {
   constructor(props){
     super(props)
@@ -7,21 +8,23 @@ class Question extends Component {
       selectedOption: ''
     };
   }
-
+  //function to update current state
   handleOptionChange = changeEvent => {
     this.setState({
       selectedOption: changeEvent.target.value
     });
   }
 
+
+  //function to submit change state and print answer result 
   handleFormSubmit = formSubmitEvent => {
     formSubmitEvent.preventDefault(); 
-    console.log('You have submitted:', this.state.selectedOption);
+    if(this.state.selectedOption === 'pulpFiction') {
+      return console.log('correct')
+    } else {
+      return console.log('incorrect')
+    }
   }
-
-  
-  // handleFormSubmit = (this.state.selectedOption) => {
-  //   this.state.selectedOption === 'killBill' ? 'correct':'incorrect'}
 
   render() {
     return (
