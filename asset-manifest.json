@@ -1,11 +1,11 @@
 {
-  "main.js": "/film-freeze/static/js/main.6c3280bf.chunk.js",
-  "main.js.map": "/film-freeze/static/js/main.6c3280bf.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/film-freeze/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/film-freeze/static/js/1.4a34e45d.chunk.js.map",
+  "main.js": "/film-freeze/static/js/main.d59c6541.chunk.js",
+  "main.js.map": "/film-freeze/static/js/main.d59c6541.chunk.js.map",
+  "static/js/1.f715b2e0.chunk.js": "/film-freeze/static/js/1.f715b2e0.chunk.js",
+  "static/js/1.f715b2e0.chunk.js.map": "/film-freeze/static/js/1.f715b2e0.chunk.js.map",
   "runtime~main.js": "/film-freeze/static/js/runtime~main.005e033f.js",
   "runtime~main.js.map": "/film-freeze/static/js/runtime~main.005e033f.js.map",
   "index.html": "/film-freeze/index.html",
-  "precache-manifest.da027ed5f4bdefd6d9842c397cc02d08.js": "/film-freeze/precache-manifest.da027ed5f4bdefd6d9842c397cc02d08.js",
+  "precache-manifest.c969c6fb1bb1a6ecc01012b2bbd46226.js": "/film-freeze/precache-manifest.c969c6fb1bb1a6ecc01012b2bbd46226.js",
   "service-worker.js": "/film-freeze/service-worker.js"
 }
